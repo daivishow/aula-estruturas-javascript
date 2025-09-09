@@ -1,0 +1,18 @@
+Desafio Extra 2
+
+No Supermercado Alegria, existe um controle em relação ao valor das compras dos
+clientes nos 03 últimos meses, como mostra a tabela a seguir:
+Faça um programa que peça os nomes dos 3 clientes e os valores das compras
+feitas por eles nos 03 últimos meses e calcule:
+• A quantidade de compras;
+• A média das compras, considerando essa quantidade.
+Após os cálculos serem efetuados, você deve exibir o menu a seguir ao usuário:
+• Ver compras de um cliente (permitir que o dono do supermercado consulte os
+valores das compras dos 3 meses, da média das compras e quantidade de compras
+de um cliente qualquer, consultando pelo seu nome);
+• Ver todas as compras de todos os clientes (mostrar a tabela inteira com todos os
+valores).
+Obs.: Quando o cliente não tiver comprado naquele mês, deve ser informado
+0 no valor da compra (equivale ao “R$ - “ da tabela). Guarde os nomes dos
+clientes em um vetor. Os valores da tabela são exemplos, o programa poderá
+receber quaisquer nomes de clientes e valores de compras.

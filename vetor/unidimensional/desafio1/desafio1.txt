@@ -1,0 +1,8 @@
+Desafio 1
+
+Um professor do SENAI gostaria de uma aplicação que fizesse o cálculo da média de 
+seus 5 (cinco) alunos no bimestre. Como o bimestre é composto por 2 (duas) notas, 
+crie 2 (dois) vetores para armazenar cada uma das notas dos alunos. Depois, crie 
+outro vetor com o resultado da média dos alunos, seguindo a seguinte fórmula:
+
+Média da Nota[1] = (Nota do vetor A[1] + Nota do vetor B[1]) / 2

@@ -1,0 +1,5 @@
+Atividade 4
+
+Alimentar um vetor com 10 números reais e depois
+exibir os números
+localizados nas posições ímpares.

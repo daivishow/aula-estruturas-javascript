@@ -1,0 +1,11 @@
+Desafio 3 
+
+Você criará um algoritmo que peça a idade, o gênero e o salário de um grupo de 
+pessoas. Quando o usuário quiser sair e encerrar o programa, ele deve digitar 
+“Finalizar”. Não se esqueça de validar para que o usuário digite exatamente 
+“Finalizar”. Ao final, você deve apresentar ao usuário:
+
+● A média de salário do grupo;
+● A média de todas as idades;
+● A média de salário do gênero feminino;
+● A média de salário do gênero masculino.

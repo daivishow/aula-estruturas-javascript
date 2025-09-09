@@ -1,0 +1,6 @@
+Desafio 2
+
+A academia de ginástica “SÓENGORDA LTDA.” necessita de uma solução que 
+calcule e informe o IMC (Indice de Massa Corpórea) de uma pessoa, considerando: 
+IMC = Peso / Altura * Altura. Permita que este programa seja executado quantas vezes 
+o usuário desejar.

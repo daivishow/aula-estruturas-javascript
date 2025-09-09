@@ -1,0 +1,7 @@
+Desafio 2
+
+Professor “Ludovico Volpato” está de volta e deseja uma solução que alimente um 
+vetor com 10 valores inteiros e também que solicite ao usuário a entrada de dados de 
+um valor inteiro qualquer. A solução deverá fazer uma busca do valor, informado pelo 
+usuário, no vetor e imprima a posição em que este foi encontrado ou se não foi 
+encontrado.

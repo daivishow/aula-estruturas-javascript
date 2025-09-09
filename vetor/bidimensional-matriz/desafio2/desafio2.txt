@@ -1,0 +1,4 @@
+Desafio 2
+
+A empresa “Só soma Ltda.” necessita de uma solução que leia uma matriz 4x3 de 
+números reais e mostre a soma de seus elementos.

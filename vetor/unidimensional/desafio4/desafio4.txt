@@ -1,0 +1,6 @@
+Desafio 4
+
+A empresa “ORDEM DECRESCENTE” necessita de uma solução que alimente um 
+vetor com 4 valores numéricos inteiros. Como resultado deseja-se que imprima os 
+valores na ordem inversa com que foram armazenadas, ou seja, do valor localizado 
+na última posição para o valor localizado na primeira posição do vetor

@@ -1,0 +1,5 @@
+Desafio 4 
+
+O professor “Ludovico Volpato” necessita de uma solução em que dada uma matriz 
+de 4x5 elementos, fazer um algoritmo para calcular a soma de cada linha e a soma 
+de todos os elementos.

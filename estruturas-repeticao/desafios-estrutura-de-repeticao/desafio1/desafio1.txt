@@ -1,0 +1,6 @@
+Desafio 1
+
+
+Faça um programa que peça ao usuário dois números. Após, enquanto ele não digitar 
+o resultado correto da soma desses dois números, mostre na tela “tente novamente”, 
+quando acertar “resultado correto!”.

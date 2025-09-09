@@ -1,0 +1,3 @@
+Proposta atividade 2
+
+Crie um programa para escrever a tabuada de um número digitado pelo usuário

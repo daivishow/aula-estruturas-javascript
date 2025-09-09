@@ -1,0 +1,6 @@
+Desafio 3
+
+A empresa “Multiplica para ganhar Ltda.” solicitou uma solução que leia uma matriz 
+5 x 5 de números inteiros e gere outra matriz, de mesmo tamanho em que cada 
+elemento seja o dobro de seu respectivo da matriz original. Mostrar a matriz original 
+e a nova.

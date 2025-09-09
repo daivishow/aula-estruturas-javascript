@@ -1,0 +1,6 @@
+Desafio 1
+
+O síndico do prédio “Balança mais não cai” solicitou uma solução que armazene em 
+uma matriz a renda de cada família moradora de um edifício, calculando a média e o 
+total de renda do mesmo. O prédio possui 6 andares e quatro apartamentos por 
+andar.
